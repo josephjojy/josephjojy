@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joseph
 
-<span>I'm a Sofware Engineer at <a href="https://github.com/bigbinary">BigBinary</a></span>
+<span>I'm a Sofware Engineer </span>
 
 <img src="https://komarev.com/ghpvc/?username=josephjojy&label=Profile%20views&color=0e75b6&style=flat" alt="josephjojy" >
 
