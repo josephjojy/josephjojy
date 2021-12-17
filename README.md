@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=josephjojy&label=Profile%20views&color=0e75b6&style=flat" alt="josephjojy" >
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephjojy&theme=react&hide=C&layout=compact&langs_count=8&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephjojy&theme=react&layout=compact&langs_count=8&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephjojy&theme=react&show_icons=true&count_private=true&hide_border=true)
 
